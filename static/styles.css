@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; background:#f7f7f9; color:#111 }
+.container { max-width:800px; margin:28px auto; padding:16px }
+.card { background:#fff; border-radius:6px; padding:12px; margin-bottom:12px; box-shadow:0 1px 3px rgba(0,0,0,0.06)}
+form input { display:block; width:100%; padding:8px; margin:6px 0 }
+.item { border-top:1px solid #eee; padding:8px 0 }
+.actions { margin-top:6px }
+.actions button { margin-right:8px }
